@@ -1,4 +1,4 @@
-# ecommerce-javascript-integration
+# ecommerce-simple-integration
 A simple HTML5 Application thats integrate with our api
 
 # Run the application
